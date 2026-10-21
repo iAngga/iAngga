@@ -1,4 +1,4 @@
-## Hi, I'm Angga — aka gawwsu
+## Hi, I'm Angga — gawwsu
 
 IT support technician from Bandung, Indonesia, working my way into **DevOps / Linux sysadmin**.
 I self-host things, break them, fix them, and write down how. On the side I make small games and pixel art.
@@ -17,7 +17,7 @@ I self-host things, break them, fix them, and write down how. On the side I make
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| Game server stack | Minecraft, Terraria (TShock) and Valheim servers in containers, exposed to friends without port forwarding | Docker, playit.gg |
+| Game server stack | Minecraft, Terraria (TShock) and other game servers in containers, exposed to friends without port forwarding | Docker, playit.gg |
 | Self-hosting via tunnel | Personal services online with no open ports | Cloudflare Tunnel, Docker |
 | School web hosting | Deploying and troubleshooting student & teacher web projects on the school server | Linux |
 | Computer lab automation | Scripted setup and exam-browser rollout across 8 labs | Batch, NetSupport School, MikroTik |
